@@ -1,6 +1,5 @@
 ---
 title: Mon super site
-permalink: https://florian813.github.io/
 ---
 <ul>
 <li><a href="intro.md">Introduction</a></li>
