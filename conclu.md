@@ -1,4 +1,6 @@
 ---
 title: Mon super site
 ---
-<p>Super conclusion</p>
+<p>Ma Super conclusion</p>
+
+<a href="index.md">Retour à la page d'accueil</a>
