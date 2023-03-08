@@ -2,10 +2,7 @@
 title: Mon super site
 ---
 <ul>
-<li>foo</li>
-<li>bar</li>
-</ul>
-<ul>
-<li>baz</li>
+<li>Introduction</li>
+<li>Conclusion</li>
 </ul>
 
