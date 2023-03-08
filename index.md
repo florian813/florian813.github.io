@@ -2,7 +2,7 @@
 title: Mon super site
 ---
 <ul>
-<li>Introduction</li>
-<li>Conclusion</li>
+<li><a href="intro.md">Introduction</a></li>
+<li><a href="conclu.md">Conclusion</a></li>
 </ul>
 
