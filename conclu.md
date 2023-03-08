@@ -1,5 +1,7 @@
 ---
-title: Mon super site
+layout: page
+title: "Mon super site"
+permalink: florian813.github.io/conclu
 ---
 <p>Ma Super conclusion</p>
 
