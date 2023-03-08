@@ -1,6 +1,3 @@
-layout: intro
-title: "Monsupersite"
-permalink: /
 ---
 title: Mon super site
 ---
