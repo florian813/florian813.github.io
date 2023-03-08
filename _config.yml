@@ -1,2 +1,4 @@
 theme: jekyll-theme-tactile
-
+layout: intro
+title: "Monsupersite"
+permalink: /
