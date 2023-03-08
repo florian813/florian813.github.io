@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mon super site"
-permalink: https://florian813.github.io/conclu
+permalink: https://florian813.github.io/
 ---
 <p>Ma Super conclusion</p>
 
